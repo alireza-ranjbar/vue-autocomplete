@@ -2,10 +2,6 @@
 
 AutoCompleteComponent is a Vue 3 component for creating an autocomplete input field. It allows users to filter and select items from a list as they type in the input field.
 
-## Installation
-
-To use the AutoCompleteComponent, you need to create a Vue 3 project.
-
 ## Usage
 ### Component File
 Add the following code as AutoCompleteComponent.vue:
